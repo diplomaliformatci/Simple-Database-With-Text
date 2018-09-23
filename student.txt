@@ -1,0 +1,6 @@
+naz	bilgisayar	5	2
+can	elektronik	3	123456789
+hulya	bilgisayar	3	201412301
+HuseyinCanKincal	bilgisayar	4	2014123028
+melike	bilgisayar	3	2014123029
+FatmaAlimli	BilgisayarMuhendisligi	4	2014141026

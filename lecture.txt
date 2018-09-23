@@ -1,0 +1,2 @@
+geometri	14
+fizik	12

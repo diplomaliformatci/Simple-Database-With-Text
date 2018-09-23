@@ -1,0 +1,5 @@
+can	bilgisayar	0
+	¢ÿ	0
+fatma	elektronik	0
+cankincal	elektronik	15
+fatma	elektronik	12321
